@@ -1,0 +1,9 @@
+E:\Experiment\KBM.Cimanggu\KBM.Web\bin\Release\netcoreapp1.0\KBM.Web.deps.json
+E:\Experiment\KBM.Cimanggu\KBM.Web\bin\Release\netcoreapp1.0\KBM.Web.runtimeconfig.json
+E:\Experiment\KBM.Cimanggu\KBM.Web\bin\Release\netcoreapp1.0\KBM.Web.runtimeconfig.dev.json
+E:\Experiment\KBM.Cimanggu\KBM.Web\bin\Release\netcoreapp1.0\KBM.Web.dll
+E:\Experiment\KBM.Cimanggu\KBM.Web\bin\Release\netcoreapp1.0\KBM.Web.pdb
+E:\Experiment\KBM.Cimanggu\KBM.Web\obj\Release\netcoreapp1.0\KBM.Web.csprojResolveAssemblyReference.cache
+E:\Experiment\KBM.Cimanggu\KBM.Web\obj\Release\netcoreapp1.0\KBM.Web.AssemblyInfo.cs
+E:\Experiment\KBM.Cimanggu\KBM.Web\obj\Release\netcoreapp1.0\KBM.Web.dll
+E:\Experiment\KBM.Cimanggu\KBM.Web\obj\Release\netcoreapp1.0\KBM.Web.pdb

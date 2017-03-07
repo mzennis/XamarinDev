@@ -1,0 +1,71 @@
+@model KBM.Web.Data.Content
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-markdown/2.10.0/css/bootstrap-markdown.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-markdown/2.10.0/js/bootstrap-markdown.min.js"></script>
+
+<h2>Create</h2>
+
+<form asp-action="Create">
+    <div class="form-horizontal">
+        <h4>Content</h4>
+        <hr />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Judul" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Judul" class="form-control" />
+                <span asp-validation-for="Judul" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Konten" class="col-md-2 control-label">Konten (HTML)</label>
+            <div class="col-md-10">
+                <input asp-for="Konten" class="form-control" data-provide="markdown" rows="10"/>
+                <span asp-validation-for="Konten" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Links" class="col-md-2 control-label">Link Penunjang</label>
+            <div class="col-md-10">
+                <input asp-for="Links" class="form-control" />
+                <span asp-validation-for="Links" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Dokumen" class="col-md-2 control-label">Url Ke Dokumen</label>
+            <div class="col-md-10">
+                <input asp-for="Dokumen" class="form-control" />
+                <span asp-validation-for="Dokumen" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Tags" class="col-md-2 control-label">Tag (pisahkan dengan ;)</label>
+            <div class="col-md-10">
+                <input asp-for="Tags" class="form-control" />
+                <span asp-validation-for="Tags" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <label asp-for="Kategori" class="col-md-2 control-label"></label>
+            <div class="col-md-10">
+                <input asp-for="Kategori" class="form-control" />
+                <span asp-validation-for="Kategori" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
