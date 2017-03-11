@@ -1,0 +1,5 @@
+adb kill-server 
+adb usb
+adb tcpip 5556
+adb connect IP:5556
+adb devices

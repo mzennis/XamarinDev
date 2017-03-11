@@ -1177,6 +1177,12 @@
         },
         "runtime": {
           "lib/netstandard1.3/_._": {}
+        },
+        "build": {
+          "build/Microsoft.EntityFrameworkCore.Tools.targets": {}
+        },
+        "buildMultiTargeting": {
+          "buildCrossTargeting/Microsoft.EntityFrameworkCore.Tools.targets": {}
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/1.1.1": {
@@ -11721,12 +11727,13 @@
     "C:\\Users\\mifma\\.nuget\\packages\\": {}
   },
   "project": {
+    "version": "1.0.0",
     "restore": {
       "projectUniqueName": "E:\\Jobs\\BDD Bogor\\XamarinDev\\Source\\BDD.Bogor\\KBM.Web\\KBM.Web.csproj",
       "projectName": "KBM.Web",
       "projectPath": "E:\\Jobs\\BDD Bogor\\XamarinDev\\Source\\BDD.Bogor\\KBM.Web\\KBM.Web.csproj",
       "outputPath": "E:\\Jobs\\BDD Bogor\\XamarinDev\\Source\\BDD.Bogor\\KBM.Web\\obj\\",
-      "outputType": "NETCore",
+      "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
       ],
