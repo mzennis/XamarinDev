@@ -23,7 +23,7 @@ namespace KBM.Mobile.Helper
                     MaxResponseContentBufferSize = 256000
                 };
             }
-            string ServiceName = DependencyService.Get<IRestUrl>().GetServiceName(nameof(T));
+            string ServiceName = DependencyService.Get<IRestUrl>().GetServiceName(typeof(T));
             ApiUrl = new UrlConstants(ServiceName);
         }
         public async Task<OutputData> DeleteData(string ColumnPK, int ValuePK)

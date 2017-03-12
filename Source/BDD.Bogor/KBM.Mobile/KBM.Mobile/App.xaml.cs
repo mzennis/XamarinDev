@@ -19,10 +19,11 @@ namespace KBM.Mobile
         {
             InitializeComponent();
             //kalau mau pake database sqlite
-            DependencyService.Register<LocalDB<UserPerKelas>>();
-            DependencyService.Register<LocalDB<UserProfile>>();
+            //DependencyService.Register<LocalDB<UserPerKelas>>();
+            //DependencyService.Register<LocalDB<UserProfile>>();
             //kalau mau pake rest api
-            //DependencyService.Register<RestApi<UserProfile>>();
+            DependencyService.Register<RestApi<UserPerKelas>>();
+            DependencyService.Register<RestApi<UserProfile>>();
 
             SetMainPage();
         }

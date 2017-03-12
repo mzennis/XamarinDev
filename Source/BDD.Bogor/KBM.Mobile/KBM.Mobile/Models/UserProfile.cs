@@ -19,7 +19,8 @@ namespace KBM.Mobile.Models
         public string alamat { get; set; }
         public string email { get; set; }
         public string kelompok { get; set; }
-        //public UserPerKelas[] dataKelas { get; set; }
+        [Ignore]
+        public UserPerKelas[] dataKelas { get; set; }
     }
     
     public class UserPerKelas

@@ -8,6 +8,6 @@ namespace KBM.Mobile.Helper
 {
     public interface IRestUrl
     {
-        string GetServiceName(string NameOfClass);
+        string GetServiceName(Type NameOfClass);
     }
 }

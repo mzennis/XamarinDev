@@ -8,17 +8,19 @@ namespace KBM.Mobile.iOS
 {
     class RestService : IRestUrl
     {
-        public string GetServiceName(string NameOfClass)
+        public string GetServiceName(Type NameOfClass)
         {
-            switch (NameOfClass)
+            if (NameOfClass == typeof(UserProfile))
             {
-                case nameof(UserProfile):
-                    return "UserProfilesSvc";
-
-                default:
-                    return "";
-
+                return "UserProfilesSvc";
             }
+            else if (NameOfClass == typeof(UserPerKelas))
+            {
+                return "KelasSvc";
+            }
+            else
+                return "";
+
         }
     }
 }

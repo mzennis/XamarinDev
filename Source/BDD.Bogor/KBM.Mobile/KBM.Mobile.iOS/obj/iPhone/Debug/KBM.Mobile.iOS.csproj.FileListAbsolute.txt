@@ -63,5 +63,6 @@ E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile.iOS\obj\iPho
 E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile.iOS\obj\iPhone\Debug\KBM.Mobile.iOS.csprojResolveAssemblyReference.cache
 E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile.iOS\obj\iPhone\Debug\KBM.Mobile.iOS.exe
 E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile.iOS\obj\iPhone\Debug\KBM.Mobile.iOS.pdb
+E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile.iOS\bin\iPhone\Debug\KBM.Mobile.dll.mdb
 E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile.iOS\obj\iPhone\Debug\KBM.Mobile.iOS.exe.mdb
 E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile.iOS\bin\iPhone\Debug\KBM.Mobile.iOS.exe.mdb

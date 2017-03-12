@@ -18,9 +18,10 @@ namespace KBM.Mobile.Views
         public NewUserProfilePage()
         {
             InitializeComponent();
-
+            Random rnd = new Random();
             userProfile = new UserProfile
             {
+                userName="user-"+rnd.Next(100),
                 nama = "UserProfile name",
                 tanggalLahir = DateTime.Now
             };
@@ -29,7 +30,7 @@ namespace KBM.Mobile.Views
         }
 
         async void Save_Clicked(object sender, EventArgs e)
-        {
+        {  
             MessagingCenter.Send(this, "AddUserProfile", userProfile);
             await Navigation.PopToRootAsync();
         }
