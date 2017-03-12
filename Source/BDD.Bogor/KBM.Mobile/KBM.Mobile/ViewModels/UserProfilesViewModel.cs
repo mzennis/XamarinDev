@@ -19,6 +19,9 @@ namespace KBM.Mobile.ViewModels
 
         public UserProfilesViewModel()
         {
+            //just to init kelas table
+            var x = DependencyService.Get<IDataRepository<UserPerKelas>>();
+
             Title = "Browse";
             UserProfiles = new ObservableRangeCollection<UserProfile>();
             LoadUserProfilesCommand = new Command(async () => await ExecuteLoadUserProfilesCommand());

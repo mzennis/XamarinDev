@@ -19,8 +19,8 @@ namespace KBM.Mobile.Helper
             {
                 db = DependencyService.Get<ISQLite>().GetConnection();
                 //db = con;
-                db.CreateTable<T>();
             }
+            db.CreateTable<T>();
         }
 
         public Task<OutputData> DeleteData(string ColumnPK, int ValuePK)

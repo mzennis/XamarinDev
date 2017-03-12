@@ -29,7 +29,3 @@ E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\Xa
 E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\Xamarin.Forms.Xaml.xml
 E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\obj\Debug\KBM.Mobile.dll.mdb
 E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\KBM.Mobile.dll.mdb
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\obj\Debug\KBM.Mobile.dll.mdb
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\KBM.Mobile.dll.mdb
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\obj\Debug\KBM.Mobile.dll.mdb
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\KBM.Mobile.dll.mdb
