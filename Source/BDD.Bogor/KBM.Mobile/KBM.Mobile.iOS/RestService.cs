@@ -4,6 +4,9 @@ using System.Text;
 using KBM.Mobile.Models;
 using Xamarin.Forms;
 using KBM.Mobile.Helper;
+using KBM.Mobile.iOS;
+
+[assembly: Dependency(typeof(RestService))]
 namespace KBM.Mobile.iOS
 {
     class RestService : IRestUrl

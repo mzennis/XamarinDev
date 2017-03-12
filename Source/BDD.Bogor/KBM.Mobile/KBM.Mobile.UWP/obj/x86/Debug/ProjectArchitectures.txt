@@ -1,0 +1,2 @@
+E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile.UWP\KBM.Mobile.UWP.csproj;x86
+E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\KBM.Mobile.csproj;neutral

@@ -13,6 +13,7 @@ using KBM.Mobile.Helper;
 using Xamarin.Forms;
 using KBM.Mobile.Droid;
 using KBM.Mobile.Models;
+
 [assembly: Dependency(typeof(RestService))]
 namespace KBM.Mobile.Droid
 {
