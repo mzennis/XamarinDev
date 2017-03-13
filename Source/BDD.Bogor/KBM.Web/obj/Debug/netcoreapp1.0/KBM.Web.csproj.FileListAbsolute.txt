@@ -7,12 +7,3 @@ E:\Experiment\KBM.Cimanggu\KBM.Web\obj\Debug\netcoreapp1.0\KBM.Web.csprojResolve
 E:\Experiment\KBM.Cimanggu\KBM.Web\obj\Debug\netcoreapp1.0\KBM.Web.AssemblyInfo.cs
 E:\Experiment\KBM.Cimanggu\KBM.Web\obj\Debug\netcoreapp1.0\KBM.Web.dll
 E:\Experiment\KBM.Cimanggu\KBM.Web\obj\Debug\netcoreapp1.0\KBM.Web.pdb
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Web\bin\Debug\netcoreapp1.0\KBM.Web.deps.json
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Web\bin\Debug\netcoreapp1.0\KBM.Web.runtimeconfig.json
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Web\bin\Debug\netcoreapp1.0\KBM.Web.runtimeconfig.dev.json
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Web\bin\Debug\netcoreapp1.0\KBM.Web.dll
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Web\bin\Debug\netcoreapp1.0\KBM.Web.pdb
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Web\obj\Debug\netcoreapp1.0\KBM.Web.csprojResolveAssemblyReference.cache
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Web\obj\Debug\netcoreapp1.0\KBM.Web.AssemblyInfo.cs
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Web\obj\Debug\netcoreapp1.0\KBM.Web.dll
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Web\obj\Debug\netcoreapp1.0\KBM.Web.pdb
