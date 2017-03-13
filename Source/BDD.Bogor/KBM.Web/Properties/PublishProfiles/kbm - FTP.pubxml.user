@@ -8,5 +8,14 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAB49z9KvhT0axgMqz5SKyVAAAAAACAAAAAAAQZgAAAAEAACAAAABi4Z0gUx5Pg8sgujWtWQx2U1Z+LIU8BavFlvwh9qtDHwAAAAAOgAAAAAIAACAAAAA8OQG/wifsvjawxa55KiyW9W+ts9j7dfEQXXtkv3QO5YAAAACIHP6q5HD4KZxCltLUZ5HusnD4fNae+15/6FwEd1XypaIjOoIYu2aZVB9vJSAMztmT6/zR6o7WsKi6MdoqVSxy8wdcTl3ahEDWeQD9tZYHIZZiNdf6pd7EzSQxSDcCDpIjWeXNMCd66svjzy2rcGoWht+fSlUEJ72VeU9/zZHZb0AAAACJe6VotdRSWmYSyHv1gRhnNYO1joa1y8rMHpbptqwMZ6wUAKr7VSl6gdGFYe5duRGUAcR7Hc3EAIhXd7PPEmkV</EncryptedPassword>
     <_NewBackgroundProfile>True</_NewBackgroundProfile>
+    <_PublishTargetUrl>ftp://waws-prod-sg1-021.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <File Include="SignalRHub/KBMHub.cs">
+      <publishTime>03/13/2017 18:35:15</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>03/13/2017 18:37:32</publishTime>
+    </File>
+  </ItemGroup>
 </Project>

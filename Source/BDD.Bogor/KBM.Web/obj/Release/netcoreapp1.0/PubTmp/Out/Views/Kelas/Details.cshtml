@@ -1,0 +1,31 @@
+@model KBM.Web.Data.Kelas
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Kelas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nama)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nama)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Pembina)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Pembina)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.KelasId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

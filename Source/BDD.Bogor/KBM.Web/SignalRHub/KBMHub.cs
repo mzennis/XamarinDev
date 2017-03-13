@@ -41,5 +41,11 @@ namespace KBM.Web
             }
             return Output;
         }
+
+        [HubMethodName("GetServerTime")]
+        public string GetServerTime()
+        {
+            return DateTime.Now.ToString("dd MM yyyy HH:mm:ss");
+        }
     }
 }
