@@ -27,11 +27,9 @@ E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\Xa
 E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\Xamarin.Forms.Platform.pdb
 E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\Xamarin.Forms.Xaml.pdb
 E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\Xamarin.Forms.Xaml.xml
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\obj\Debug\KBM.Mobile.dll.mdb
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\KBM.Mobile.dll.mdb
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\obj\Debug\KBM.Mobile.dll.mdb
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\KBM.Mobile.dll.mdb
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\obj\Debug\KBM.Mobile.dll.mdb
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\KBM.Mobile.dll.mdb
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\obj\Debug\KBM.Mobile.dll.mdb
-E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\KBM.Mobile.dll.mdb
+E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\Plugin.Connectivity.Abstractions.dll
+E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\Plugin.Connectivity.dll
+E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\Plugin.Connectivity.pdb
+E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\Plugin.Connectivity.xml
+E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+E:\Jobs\BDD Bogor\XamarinDev\Source\BDD.Bogor\KBM.Mobile\KBM.Mobile\bin\Debug\Plugin.Connectivity.Abstractions.xml

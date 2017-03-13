@@ -1,6 +1,7 @@
 ﻿using KBM.Mobile.Helper;
 using KBM.Mobile.Models;
 using KBM.Mobile.Views;
+using Plugin.Connectivity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,6 +27,14 @@ namespace KBM.Mobile
             DependencyService.Register<RestApi<UserProfile>>();
 
             SetMainPage();
+            if (!CrossConnectivity.Current.IsConnected)
+            {
+                Current.MainPage.DisplayAlert("Warning", "Hape antum tidak terkoneksi dengan jaringan internet", "OK");
+            }
+            CrossConnectivity.Current.ConnectivityChanged += (sender, args) =>
+            {
+                Current.MainPage.DisplayAlert("Connectivity Changed", "IsConnected: " + args.IsConnected.ToString(), "OK");
+            };
         }
 
         public static void SetMainPage()

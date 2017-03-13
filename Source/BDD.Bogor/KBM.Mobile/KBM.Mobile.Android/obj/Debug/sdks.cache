@@ -7,10 +7,10 @@
   <AndroidSdkBuildToolsBinPath>C:\Program Files (x86)\Android\android-sdk\build-tools\23.0.3</AndroidSdkBuildToolsBinPath>
   <AndroidSdkPath>C:\Program Files (x86)\Android\android-sdk</AndroidSdkPath>
   <JavaSdkPath>C:\Program Files\Java\jdk1.8.0_111</JavaSdkPath>
-  <MonoAndroidBinPath>e:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Xamarin\Android</MonoAndroidBinPath>
-  <MonoAndroidToolsPath>e:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Xamarin\Android</MonoAndroidToolsPath>
+  <MonoAndroidBinPath>E:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Xamarin\Android</MonoAndroidBinPath>
+  <MonoAndroidToolsPath>E:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\Xamarin\Android</MonoAndroidToolsPath>
   <ReferenceAssemblyPaths>
-    <ReferenceAssemblyPath>e:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\ReferenceAssemblies\Microsoft\Framework\MonoAndroid\v1.0\</ReferenceAssemblyPath>
+    <ReferenceAssemblyPath>E:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\ReferenceAssemblies\Microsoft\Framework\MonoAndroid\v1.0\</ReferenceAssemblyPath>
   </ReferenceAssemblyPaths>
   <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
   <ZipAlignPath>C:\Program Files (x86)\Android\android-sdk\build-tools\23.0.3</ZipAlignPath>

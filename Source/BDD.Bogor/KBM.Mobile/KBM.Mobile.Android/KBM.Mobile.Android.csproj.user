@@ -2,7 +2,7 @@
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ProjectFiles</ProjectView>
-    <SelectedDevice>Xiaomi Redmi Note 2 %28192.168.100.19:5556%29</SelectedDevice>
+    <SelectedDevice>VisualStudio_android-23_arm_phone</SelectedDevice>
     <DefaultDevice>VisualStudio_android-23_arm_phone</DefaultDevice>
   </PropertyGroup>
 </Project>
